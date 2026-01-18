@@ -35,7 +35,7 @@ Prototype d’IA pour analyse objective des données d’entreprise et support a
 
 - [LinkedIn](https://www.linkedin.com/in/abdoul-aziz-yaro/)  
 - [Portfolio GitHub](https://github.com/tonnom)  
-- Email : abdoulazizyaro@example.com  
+- Email : abdoulazizyaro47@gmail.com  
 
 ---
 
